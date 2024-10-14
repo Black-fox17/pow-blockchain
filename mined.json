@@ -1,0 +1,20 @@
+[
+	{
+		"data" : "Hi im the first block",
+		"previousHash" : "0",
+		"timeStamp" : 1728905657452,
+		"hash" : "00023e6e585a3a164e6493554c3a6c7c52223f75d86feffa8caf699a88090fe6"
+	},
+	{
+		"data" : "Yo im the second block",
+		"previousHash" : "00023e6e585a3a164e6493554c3a6c7c52223f75d86feffa8caf699a88090fe6",
+		"timeStamp" : 1728905658268,
+		"hash" : "000d5edea42258b9cb0709abae688770439d80dc550a6809d4c1f56d19dbbdff"
+	},
+	{
+		"data" : "Hey im the third block",
+		"previousHash" : "000d5edea42258b9cb0709abae688770439d80dc550a6809d4c1f56d19dbbdff",
+		"timeStamp" : 1728905658427,
+		"hash" : "0009499866d4de9f687ab80c850bc392a0ec94cfa353f4c756fbfcb45845b5b7"
+	}
+]
